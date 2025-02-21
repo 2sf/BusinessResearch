@@ -9,15 +9,15 @@
 
 **Zero to One Playbook (Remittance Optimization AI Agent):**
 
-1.**MVP:**
+1. **MVP:**
   * Web-based platform or mobile app (initially web) that compares remittance options from 3-5 major providers for sending money from a specific country (e.g., UAE, Saudi Arabia, UK) to Bangladesh.
-    *   Simple interface showing exchange rates, fees, and estimated delivery time for each provider.
-    *   Focus on Bengali and English language support.
-2.  **Target Customer:**  Bangladeshi expats living and working in countries with large Bangladeshi communities, particularly in the Middle East, Europe, and North America.
-3.  **Initial Marketing & Sales:**
-    *   **Online Communities & Social Media:**  Target Bangladeshi diaspora communities online through Facebook groups, forums, and social media advertising.
-    *   **Partnerships:**  Collaborate with Bangladeshi community organizations, mosques, and cultural centers in target countries.
-    *   **Content Marketing:**  Create blog posts, articles, and videos about saving money on remittances, best remittance practices, and financial advice for expats.  Content in Bengali and English.
+  *   Simple interface showing exchange rates, fees, and estimated delivery time for each provider.
+  *   Focus on Bengali and English language support.
+2. **Target Customer:**  Bangladeshi expats living and working in countries with large Bangladeshi communities, particularly in the Middle East, Europe, and North America.
+3. **Initial Marketing & Sales:**
+    * **Online Communities & Social Media:**  Target Bangladeshi diaspora communities online through Facebook groups, forums, and social media advertising.
+    * **Partnerships:**  Collaborate with Bangladeshi community organizations, mosques, and cultural centers in target countries.
+    * **Content Marketing:**  Create blog posts, articles, and videos about saving money on remittances, best remittance practices, and financial advice for expats.  Content in Bengali and English.
     * **Free Tool:** Offer the remittance comparison tool for free to build user base and gather feedback.
 4.  **Key Partnerships:**
     * Remittance providers (banks, money transfer operators) for API access and potential affiliate agreements.
